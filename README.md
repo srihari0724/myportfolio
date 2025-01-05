@@ -1,1 +1,1 @@
-[personal portfolio](https://srihari0724.github.io/portfolio/)
+[personal portfolio](https://srihari0724.github.io/myportfolio/)
